@@ -20,7 +20,7 @@ body {
 .content h1 {
   font-weight: bold;
   font-size: 18px;
-  color: darkred;
+  color: black;
   line-height: 150%;
 }
 
@@ -32,7 +32,7 @@ body {
 
 nav {
   margin: 0 auto;
-  padding: 10px 0px;
+  padding: 10px 20px;
   position: fixed;
   width: 420px;
   background-color: black;
@@ -53,6 +53,7 @@ nav {
 
 .location {
   height: 70px;
+  border-bottom: 1px solid darkgray;
 }
 
 .content {
